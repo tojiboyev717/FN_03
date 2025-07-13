@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.21.2",
+    "vec3": "^0.1.7",
+    "minecraft-data": "^3.85.0",
+    "mineflayer": "^4.25.0"
+  }
+}
