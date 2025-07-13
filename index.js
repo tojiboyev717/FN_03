@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 const Vec3 = require('vec3');
 require('./keep_alive');
 
-const botUsername = 'FN_06';
+const botUsername = 'FN_03';
 const botPassword = 'fort54321';
 const admin = 'Umid';
 const botOption = {
