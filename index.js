@@ -120,7 +120,7 @@ function init() {
         bot.chat('/is warp sell');
 
         setTimeout(async () => {
-            const chestPosition = new Vec3(5525, 90, -4377);
+            const chestPosition = new Vec3(5499, 90, -4377);
             const chestBlock = bot.blockAt(chestPosition);
             if (!chestBlock || chestBlock.name !== 'chest') {
                 console.log("❌ Chest bloki topilmadi yoki noto‘g‘ri blok.");
